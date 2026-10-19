@@ -1,0 +1,6 @@
+{
+  "name": "Eventos Torres de Paine - Matrimonios en Paine",
+  "description": "Casona para matrimonios en Paine, a 40 min de Santiago. Todo Incluido desde 2,27 UF + IVA por persona, de 100 a 350 invitados, un evento por día. Agenda tu visita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
